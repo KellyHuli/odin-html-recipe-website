@@ -1,0 +1,27 @@
+.frontimage {
+    height: auto;
+    width: 700px;
+}
+
+h1{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: rgb(121, 184, 148);
+}
+
+img {
+    padding: 10px;
+    background-color: rgb(121, 184, 148);
+}
+
+li a {
+    color: rgb(121, 184, 148)
+}
+
+.darkergreen {
+    color: rgb(43, 99, 67);
+}
+
+#warning {
+    color: orange;
+}
